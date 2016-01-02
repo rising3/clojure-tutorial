@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rising3/clojure-tutorial.svg)](https://travis-ci.org/rising3/clojure-tutorial)
+
 # clojure-tutorial
 
 FIXME: description
